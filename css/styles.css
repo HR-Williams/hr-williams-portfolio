@@ -1,3 +1,8 @@
 body {
   font-family: Arial;
 }
+
+.opb {
+  background-color: black;
+  color: white;
+}
