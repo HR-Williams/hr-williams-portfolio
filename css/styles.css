@@ -9,10 +9,7 @@ body {
   border-width: 3px;
 }
 
-.column {
-  width: 50%;
-  float: right;
-} 
+
 
 .box  {
   width: 50%;
@@ -20,18 +17,26 @@ body {
   border-width: 1px;
   background-color: rgb(192, 212, 161);
   margin-bottom: 1px;
+  float: right;
 }
 
 .projects-box {
-  width: 40%;
+  float: right;
+  width: 50%;
   border: solid rgb(0, 0, 0);
   border-width: 1px;
   background-color: rgb(219, 239, 243);
 }
 
 .about-box {
-  width: 60%;
+  float: right;
+  width: 50%;
   border: solid rgb(0, 0, 0);
   border-width: 1px;
   background-color: rgb(236, 206, 206);
+}
+
+img {
+  float: left;
+  width: 49%;
 }
