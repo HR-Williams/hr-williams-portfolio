@@ -3,13 +3,15 @@ body {
 }
 
 .opb {
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: rgb(111, 199, 240);
+  border: solid rgb(193, 235, 193);
+  border-width: 3px;
 }
 
 .column {
   width: 50%;
-  float: left;
+  float: right;
 } 
 
 .box  {
@@ -17,7 +19,7 @@ body {
   border: solid black;
   border-width: 1px;
   background-color: rgb(192, 212, 161);
-  margin-bottom: 10px;
+  margin-bottom: 1px;
 }
 
 .projects-box {
@@ -25,4 +27,11 @@ body {
   border: solid rgb(0, 0, 0);
   border-width: 1px;
   background-color: rgb(219, 239, 243);
+}
+
+.about-box {
+  width: 60%;
+  border: solid rgb(0, 0, 0);
+  border-width: 1px;
+  background-color: rgb(236, 206, 206);
 }
