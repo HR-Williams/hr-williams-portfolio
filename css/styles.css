@@ -10,4 +10,12 @@ body {
 .column {
   width: 50%;
   float: left;
+} 
+
+.box  {
+  width: 50%;
+  border: solid black;
+  border-width: 1px;
+  background-color: rgb(192, 212, 161);
+  margin-bottom: 10px;
 }
