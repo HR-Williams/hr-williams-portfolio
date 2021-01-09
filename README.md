@@ -15,7 +15,7 @@ _This is an assignment for Epicodus Week 1 to demonstrate new skills in HTML, CS
 
 ## Setup/Installation Requirements
 
-* _this page can be viewed at https://hr-williams.github.io/hr-williams-portfolio/
+* _this page can be viewed at https://hr-williams.github.io/hr-williams-portfolio/_
 * _OR clone this repository_
 * _THEN open the hr-williams-portfolio directory's index.html file in web browser_
 
