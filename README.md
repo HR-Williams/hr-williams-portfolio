@@ -21,7 +21,7 @@ _This is an assignment for Epicodus Week 1 to demonstrate new skills in HTML, CS
 
 ## Known Bugs
 
-* _Custom CSS was used to demonstrate knowldege of box model and floats. When this is not for an assignment I would like to change it to use bootstrap columns._
+* _Custom CSS was used to demonstrate knowldege of box model and floats. When this is not for an assignment I would like to change it to use bootstrap grid system._
 
 ## License
 
