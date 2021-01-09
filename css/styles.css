@@ -40,3 +40,8 @@ img {
   width: 49%;
   border: solid black;
 }
+
+.projects-box a {
+  font-weight: bolder;
+  color: rgb(60, 151, 41);
+}
