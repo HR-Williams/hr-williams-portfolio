@@ -11,70 +11,87 @@ body {
 }
 
 .interests  {
-  width: 51%;
+  width: 70%;
   border: solid black;
   border-width: 1px;
   background-color: rgb(201, 229, 182);
   margin-bottom: 1px;
   float: right;
   padding: 10px;
+  box-sizing: border-box;
 }
 
 .projects-box {
   float: right;
-  width: 51%;
+  width: 70%;
   border: solid rgb(0, 0, 0);
   border-width: 1px;
   background-color: rgb(223, 220, 247);
   padding: 10px;
+  margin-bottom: 1px;
+  box-sizing: border-box;
 }
 
 .about-box {
   float: right;
-  width: 51%;
+  width: 70%;
   border: solid black;
   border-width: 1px;
   background-color: rgb(207, 226, 245);
   padding: 10px;
+  margin-bottom: 1px;
+  box-sizing: border-box;
 }
+
 
 img {
   float: left;
-  width: 40%;
+  width: 25%;
   border: solid black;
+  margin: 1px;
 }
 
 .projects-box a {
   font-weight: bolder;
-  color: rgb(60, 151, 41);
 }
 
 .hobbies {
   background-color: rgb(250, 244, 177);
-  width: 51%;
+  width: 70%;
   border: solid black;
   border-width: 1px;
   margin-bottom: 1px;
   float: right;
   padding: 10px;
+  box-sizing: border-box;
 }
 
 .dev-skills {
   background-color: rgb(255, 232, 218);
-  width: 51%;
+  width: 70%;
   border: solid black;
   border-width: 1px;
   margin-bottom: 1px;
   float: right;
   padding: 10px;
+  box-sizing: border-box;
 }
 
 .other-skills {
   background-color: rgb(255, 224, 227);
-  width: 51%;
+  width: 70%;
   border: solid black;
   border-width: 1px;
   margin-bottom: 1px;
   float: right;
   padding: 10px;
+  box-sizing: border-box;
+}
+
+a:link {
+  color: rgb(148, 120, 173);
+}
+
+a:visited {
+  color: rgb(100, 78, 99);
 }
