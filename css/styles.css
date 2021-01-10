@@ -4,30 +4,35 @@ body {
 }
 
 .opb {
-  background-color: white;
-  color: rgb(111, 199, 240);
-  border: solid rgb(193, 235, 193);
+  background-color: black;
+  color: white;
+  border: solid white;
+  border-radius: 15px;
+  padding: 3px;
+  bo
 }
 
 .interests  {
   width: 70%;
-  border: solid black;
+  border: solid rgb(0, 0, 0);
   background-color: rgb(201, 229, 182);
   margin-bottom: 1px;
   float: right;
   padding: 10px;
   box-sizing: border-box;
+  border-radius: 15px;
 }
 
 .projects-box {
   margin-top: 3px;
   float: right;
   width: 70%;
-  border: solid rgb(0, 0, 0);
+  border: solid black;
   background-color: rgb(223, 220, 247);
   padding: 10px;
   margin-bottom: 1px;
   box-sizing: border-box;
+  border-radius: 15px;
 }
 
 .about-box {
@@ -38,19 +43,19 @@ body {
   padding: 10px;
   margin-bottom: 1px;
   box-sizing: border-box;
+  border-radius: 15px;
 }
 
 
 img {
+  margin-top: 3px;
   float: left;
   width: 29%;
   border: solid black;
   margin: 1px;
+  border-radius: 15px;
 }
 
-.projects-box a {
-  font-weight: bolder;
-}
 
 .hobbies {
   background-color: rgb(250, 244, 177);
@@ -60,6 +65,7 @@ img {
   float: right;
   padding: 10px;
   box-sizing: border-box;
+  border-radius: 15px;
 }
 
 .dev-skills {
@@ -70,6 +76,7 @@ img {
   float: right;
   padding: 10px;
   box-sizing: border-box;
+  border-radius: 15px;
 }
 
 .other-skills {
@@ -80,14 +87,16 @@ img {
   float: right;
   padding: 10px;
   box-sizing: border-box;
+  border-radius: 15px;
 }
 
 a:link {
-  color: rgb(148, 120, 173);
+  color: rgb(49, 143, 197);
+  font-variant: small-caps;
 }
 
 a:visited {
-  color: rgb(100, 78, 99);
+  color: rgb(8, 32, 172);
 }
 
 .hr{
@@ -96,5 +105,22 @@ a:visited {
   color: white;
   padding: 10px;
   border: solid black;
-  border-radius: ;
+  margin-bottom: 1px;
+  border-radius: 15px;
 }
+
+.kidney {
+  background-color: white;
+}
+
+.projects-box a {
+  font-weight: bolder;
+  color: green;
+  font-variant: normal;
+
+}
+.projects-box a:visited {
+  color: rgb(91, 53, 161);
+  color: rgb(38, 13, 95);
+}
+
