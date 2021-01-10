@@ -24,10 +24,6 @@ _This is an assignment for Epicodus Week 1 to demonstrate new skills in HTML, CS
 
 * _Custom CSS was used to demonstrate knowldege of box model and floats. When this is not for an assignment I would like to change it to use bootstrap grid system._
 
-* _More styling was done after my most recent push to gh-pages. GH-Pages and 'main' therefore don't match. If I decide I like main better, I will delete GH-pages branch and then push most recent changes to a new GH-pages branch._
-
-* _Most recent styling changes messed up margins and spacing on index.html. I will fix this on 1/10/21.
-
 ## License
 
 _[MIT](https://choosealicense.com/licenses/mit/)_

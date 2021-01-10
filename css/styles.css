@@ -96,7 +96,7 @@ a:link {
 }
 
 a:visited {
-  color: rgb(8, 32, 172);
+  color: rgb(37, 172, 172);
 }
 
 .hr{
@@ -115,13 +115,12 @@ a:visited {
 
 .projects-box a {
   font-weight: bolder;
-  color: green;
-  font-variant: normal;
-
+  color: rgb(58, 107, 58);
+  font-variant: small-caps;
 }
+
 .projects-box a:visited {
-  color: rgb(91, 53, 161);
-  color: rgb(38, 13, 95);
-  font-variant: normal;
+  color: rgb(189, 177, 212);
+  font-variant: small-caps;
 }
 
