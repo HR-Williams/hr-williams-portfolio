@@ -10,11 +10,11 @@ body {
   border-width: 3px;
 }
 
-.box  {
+.interests  {
   width: 51%;
   border: solid black;
   border-width: 1px;
-  background-color: rgb(192, 212, 161);
+  background-color: rgb(201, 229, 182);
   margin-bottom: 1px;
   float: right;
   padding: 10px;
@@ -25,7 +25,7 @@ body {
   width: 51%;
   border: solid rgb(0, 0, 0);
   border-width: 1px;
-  background-color: rgb(219, 239, 243);
+  background-color: rgb(223, 220, 247);
   padding: 10px;
 }
 
@@ -34,7 +34,7 @@ body {
   width: 51%;
   border: solid black;
   border-width: 1px;
-  background-color: rgb(236, 206, 206);
+  background-color: rgb(207, 226, 245);
   padding: 10px;
 }
 
@@ -47,4 +47,34 @@ img {
 .projects-box a {
   font-weight: bolder;
   color: rgb(60, 151, 41);
+}
+
+.hobbies {
+  background-color: rgb(250, 244, 177);
+  width: 51%;
+  border: solid black;
+  border-width: 1px;
+  margin-bottom: 1px;
+  float: right;
+  padding: 10px;
+}
+
+.dev-skills {
+  background-color: rgb(255, 232, 218);
+  width: 51%;
+  border: solid black;
+  border-width: 1px;
+  margin-bottom: 1px;
+  float: right;
+  padding: 10px;
+}
+
+.other-skills {
+  background-color: rgb(255, 224, 227);
+  width: 51%;
+  border: solid black;
+  border-width: 1px;
+  margin-bottom: 1px;
+  float: right;
+  padding: 10px;
 }
