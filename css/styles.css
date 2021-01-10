@@ -11,33 +11,36 @@ body {
 }
 
 .box  {
-  width: 50%;
+  width: 51%;
   border: solid black;
   border-width: 1px;
   background-color: rgb(192, 212, 161);
   margin-bottom: 1px;
   float: right;
+  padding: 10px;
 }
 
 .projects-box {
   float: right;
-  width: 50%;
+  width: 51%;
   border: solid rgb(0, 0, 0);
   border-width: 1px;
   background-color: rgb(219, 239, 243);
+  padding: 10px;
 }
 
 .about-box {
   float: right;
-  width: 50%;
+  width: 51%;
   border: solid black;
   border-width: 1px;
   background-color: rgb(236, 206, 206);
+  padding: 10px;
 }
 
 img {
   float: left;
-  width: 49%;
+  width: 40%;
   border: solid black;
 }
 
