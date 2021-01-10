@@ -122,5 +122,6 @@ a:visited {
 .projects-box a:visited {
   color: rgb(91, 53, 161);
   color: rgb(38, 13, 95);
+  font-variant: normal;
 }
 
