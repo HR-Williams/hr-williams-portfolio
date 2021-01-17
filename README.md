@@ -17,7 +17,7 @@ _This is an assignment for Epicodus Week 1 to demonstrate new skills in HTML, CS
 
 * _this page can be viewed at https://hr-williams.github.io/hr-williams-portfolio/_
 * _OR clone this repository to your desktop_
-* _THEN navigate to the top level of the directory
+* _THEN navigate to the top level of the directory_
 * _THEN open index.html in web browser_
 
 
